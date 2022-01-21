@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">DoctorAppoinment</string>
+
+
+    <string-array name="doctorName">
+
+        <item>01--Dr.Rasel--Orthopedic</item>
+        <item>02--Dr.Mursheda--Cardiology</item>
+        <item>03--Dr.Topu--Dermitology</item>
+        <item>04--Dr.Munni--Neorolgy</item>
+        <item>05--Dr.Rupma--Oncology</item>
+        <item>06--Dr.Maharm--Orthopedic</item>
+        <item>07--Dr.Shamim--Urology</item>
+        <item>08--Dr.Rasel--Orthopedic</item>
+        <item>09--Dr.Mursheda--Cardiology</item>
+        <item>10--Dr.Topu--Dermitology</item>
+        <item>11--Dr.Munni--Neorolgy</item>
+        <item>12--Dr.Rupma--Oncology</item>
+        <item>13--Dr.Maharm--Orthopedic</item>
+        <item>14--Dr.Rasel--Orthopedic</item>
+        <item>15--Dr.Mursheda--Cardiology</item>
+        <item>16--Dr.Topu--Dermitology</item>
+        <item>17--Dr.Munni--Neorolgy</item>
+        <item>18--Dr.Rupma--Oncology</item>
+        <item>19--Dr.Maharm--Orthopedic</item>
+        <item>20--Dr.Shamim--Urology</item>
+        <item>21--Dr.Rasel--Orthopedic</item>
+        <item>22--Dr.Mursheda--Cardiology</item>
+        <item>23--Dr.Topu--Dermitology</item>
+        <item>24--Dr.Munni--Neorolgy</item>
+        <item>25--Dr.Rupma--Oncology</item>
+
+
+    </string-array>
+
+
+
+
+
+</resources>
